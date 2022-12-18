@@ -1,0 +1,8 @@
+Goerli network Smart Contract Address:
+
+0x866b91F25c72472185Bef150645e827C5B6313e6
+
+
+
+Ganache network smart contract address :
+0x26dfE7e29DC6F646555fE090399f7254B6716178
