@@ -1,6 +1,6 @@
 
 
-#BLOCKCHAIN BASED LOTTERY WebAPP
+# BLOCKCHAIN BASED LOTTERY WebAPP
 
 ## Deploy your first smart contract in `Ethereum` network
 
