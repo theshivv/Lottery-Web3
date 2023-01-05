@@ -1,6 +1,6 @@
 
 
-# BLOCKCHAIN BASED LOTTERY
+# DEFi LOTTERY
 
 
 ## Deploy your first smart contract in `Ethereum` network
