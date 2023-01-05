@@ -2,6 +2,7 @@
 
 # DEFi LOTTERY
 
+![diagram](Defi_Lottery.png)
 
 ## Deploy your first smart contract in `Ethereum` network
 
