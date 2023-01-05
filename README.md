@@ -1,6 +1,8 @@
-![diagram](solidity_smart_contract.png)
 
-# Deploy your first smart contract in `Ethereum` network
+
+#BLOCKCHAIN BASED LOTTERY WebAPP
+
+## Deploy your first smart contract in `Ethereum` network
 
 `Bitcoin` raised the blockchain technology, where `Ethereum` took it to the next level. Often said, `Blockchin 2.0`, `Ethereum` proved the possibility of blockchain technology beyond financial sector. This public blockchain network is famous for allowing the implementation of smart contracts. `Smart Contract` acts as a `locker` where it can be unlocked by certain conditions. `Solidity` programming language can be used to develop these `Smart Contract`.
 
